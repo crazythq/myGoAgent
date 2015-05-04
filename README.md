@@ -1,2 +1,2 @@
 ﻿# myGoAgent
-## my GoAgent Configurations
+## thq's GoAgent Configurations
