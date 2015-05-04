@@ -1,0 +1,38 @@
+; Summary: Proxy Switchy! Exported Rule List
+; Date: 2015/5/4
+; Website: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+#BEGIN
+
+[wildcard]
+!@*://*.csdn.net/*
+!@*://*.zhihu.com/*
+@*://*.angularjs.org/*
+@*://*.google.com.*/*
+@*://*.google*.com/*
+@*://*.sourceforge.net/*
+@*://*.sf.net/*
+@*://*.wikipedia.org/*
+@*://*.android.com/*
+@*://*.dropbox.com/*
+@*://*.dropboxusercontent.com/*
+@*://*.facebook.com/*
+@*://*.google.com.*/*
+@*://*.google.com/*
+@*://*.google-analytics.com/*
+@*://*.googleapis.com/*
+@*://*.googlecode.com/*
+@*://*.googleusercontent.com/*
+@*://*.gstatic.com/*
+@*://*.picasa.com/*
+@*://*.goo.gl/*
+@*://*.t.co/*
+@*://*.twimg.com/*
+@*://*.twitter.com/*
+@*://*.wikipedia.org/*
+@*://*.youtube.com/*
+@*://*.ytimg.com/*
+
+[regexp]
+
+#END
