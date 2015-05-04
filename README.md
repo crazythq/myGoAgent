@@ -1,0 +1,2 @@
+﻿# myGoAgent
+## my GoAgent Configurations
